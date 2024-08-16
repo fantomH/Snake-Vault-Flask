@@ -25,6 +25,5 @@ setup(
     zip_safe=False,
     install_requires=[
         'Flask',
-        'Snake-Vault @ git+https://github.com/fantomH/Snake-Vault.git'
     ]
 )
